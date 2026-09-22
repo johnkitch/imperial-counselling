@@ -1,0 +1,1 @@
+function e(e){return typeof e.arrayBuffer==`function`?e.arrayBuffer():new Promise((t,n)=>{let r=new FileReader;r.onload=()=>t(r.result),r.onerror=()=>n(r.error??Error(`The file could not be read`)),r.readAsArrayBuffer(e)})}export{e as t};

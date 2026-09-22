@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "bundle": "bundle-1.0.1.zip",
+  "sha256": "20e875e7a51d382eb1467ab3e9edfefd331529b1e151e1e93cdd6b9805a0c9ad",
+  "minShell": 1,
+  "schema": 1,
+  "notes": "First release",
+  "releasedAt": "2026-09-22T10:31:36.247Z"
+}
