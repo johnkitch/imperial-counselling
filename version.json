@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4",
-  "bundle": "bundle-1.0.4.zip",
-  "sha256": "4e7fa6cefd12454e99a7db394662cbc8927440e7e46116006a204c9996940705",
+  "version": "1.0.5",
+  "bundle": "bundle-1.0.5.zip",
+  "sha256": "bd6b685ddb42c9a5d55ded3805c704c293d0f0750751ea1a3d0b7ac8dcb9e7ef",
   "minShell": 1,
   "schema": 1,
-  "notes": "Tag a student with @ in the running log, however the name is spelt. The chosen start screen shows each time the app is opened.",
-  "releasedAt": "2026-09-23T11:13:30.023Z",
+  "notes": "Your own reminders (+ New reminder). Undo of a timetable import puts the previous timetable back. Move a student to another class from their page. Export: all observations as Excel or Word (More, Export) and a student's report as Word.",
+  "releasedAt": "2026-09-23T12:19:29.831Z",
   "apk": "imperial-counselling-latest.apk"
 }
