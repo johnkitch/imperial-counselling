@@ -1,10 +1,10 @@
 {
-  "version": "1.0.3",
-  "bundle": "bundle-1.0.3.zip",
-  "sha256": "0866c1fc97182a6edaaf1afd7f59c28f0f8d3e34a9cd42de7b67318fe48f69d5",
+  "version": "1.0.4",
+  "bundle": "bundle-1.0.4.zip",
+  "sha256": "4e7fa6cefd12454e99a7db394662cbc8927440e7e46116006a204c9996940705",
   "minShell": 1,
   "schema": 1,
-  "notes": "Fixes the Android app opening to a blank screen, and reminder alerts on Android",
-  "releasedAt": "2026-09-23T08:02:30.785Z",
+  "notes": "Tag a student with @ in the running log, however the name is spelt. The chosen start screen shows each time the app is opened.",
+  "releasedAt": "2026-09-23T11:13:30.023Z",
   "apk": "imperial-counselling-latest.apk"
 }
