@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
-  "bundle": "bundle-1.0.2.zip",
-  "sha256": "cd05eeb88b431902313ddd467d3be3081b4365d3ef9482400991525f2a9e00de",
+  "version": "1.0.3",
+  "bundle": "bundle-1.0.3.zip",
+  "sha256": "0866c1fc97182a6edaaf1afd7f59c28f0f8d3e34a9cd42de7b67318fe48f69d5",
   "minShell": 1,
   "schema": 1,
-  "notes": "Fixes: drafts after the lock, full student names in notes, year after a name, moved students' reminders and bookings, timetable changes, the current concern form, Arabic note direction",
-  "releasedAt": "2026-09-23T07:23:44.134Z",
+  "notes": "Fixes the Android app opening to a blank screen, and reminder alerts on Android",
+  "releasedAt": "2026-09-23T08:02:30.785Z",
   "apk": "imperial-counselling-latest.apk"
 }
