@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
-  "bundle": "bundle-1.0.5.zip",
-  "sha256": "bd6b685ddb42c9a5d55ded3805c704c293d0f0750751ea1a3d0b7ac8dcb9e7ef",
+  "version": "1.0.6",
+  "bundle": "bundle-1.0.6.zip",
+  "sha256": "30204c260463a23083a13cba9f2ff430dc02863eabe3ce9052ed293357f9b113",
   "minShell": 1,
   "schema": 1,
-  "notes": "Your own reminders (+ New reminder). Undo of a timetable import puts the previous timetable back. Move a student to another class from their page. Export: all observations as Excel or Word (More, Export) and a student's report as Word.",
-  "releasedAt": "2026-09-23T12:19:29.831Z",
+  "notes": "Backups that cannot be forgotten: the app shows how many changes are not yet backed up and asks daily; Back up in one tap (Settings). A warning about deleting the app or clearing Safari's data.",
+  "releasedAt": "2026-09-23T15:12:52.229Z",
   "apk": "imperial-counselling-latest.apk"
 }
