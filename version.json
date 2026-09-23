@@ -1,9 +1,10 @@
 {
-  "version": "1.0.1",
-  "bundle": "bundle-1.0.1.zip",
-  "sha256": "20e875e7a51d382eb1467ab3e9edfefd331529b1e151e1e93cdd6b9805a0c9ad",
+  "version": "1.0.2",
+  "bundle": "bundle-1.0.2.zip",
+  "sha256": "cd05eeb88b431902313ddd467d3be3081b4365d3ef9482400991525f2a9e00de",
   "minShell": 1,
   "schema": 1,
-  "notes": "First release",
-  "releasedAt": "2026-09-22T10:31:36.247Z"
+  "notes": "Fixes: drafts after the lock, full student names in notes, year after a name, moved students' reminders and bookings, timetable changes, the current concern form, Arabic note direction",
+  "releasedAt": "2026-09-23T07:23:44.134Z",
+  "apk": "imperial-counselling-latest.apk"
 }

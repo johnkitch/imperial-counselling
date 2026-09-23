@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-B_FFbnLM.js","./index-BgcnrMbw.js","./parts-DBhBsouj.js","./preload-helper-uBIymjUX.js","./index-DcPQ19fh.css"])))=>i.map(i=>d[i]);
-import{t as e}from"./preload-helper-uBIymjUX.js";import{d as t}from"./index-BgcnrMbw.js";var n=t(`Share`,{web:()=>e(()=>import(`./web-B_FFbnLM.js`).then(e=>new e.ShareWeb),__vite__mapDeps([0,1,2,3,4]),import.meta.url)});export{n as Share};
