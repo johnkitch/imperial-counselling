@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-uwroph_U.js","./index-BpZztlii.js","./rolldown-runtime-W7wSyTde.js","./time-BSdVOhQj.js","./index-nSS_MiyG.css"])))=>i.map(i=>d[i]);
+import{H as e,Q as t}from"./index-BpZztlii.js";var n=e(`Preferences`,{web:()=>t(()=>import(`./web-uwroph_U.js`).then(e=>new e.PreferencesWeb),__vite__mapDeps([0,1,2,3,4]),import.meta.url)});export{n as Preferences};
