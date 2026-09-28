@@ -1,10 +1,10 @@
 {
-  "version": "1.0.9",
-  "bundle": "bundle-1.0.9.zip",
-  "sha256": "28ea04e385e3662be5c46295b8f0b060c0bcfd87a19a70be4803c25361ed5647",
+  "version": "1.0.10",
+  "bundle": "bundle-1.0.10.zip",
+  "sha256": "2b4a04513b670441eb04d119feab56f92ad7004c27267b0b03e52a0ce75428f6",
   "minShell": 1,
   "schema": 2,
-  "notes": "Meetings: log parent meetings (on the student's timeline, with conclusion and next steps), staff meetings and workshops (More, Meetings). Counsellor's report for a period (More, Export), in the school look, with or without student names. This update changes how data is stored: the app asks for your PIN once and offers a backup first.",
-  "releasedAt": "2026-09-28T06:02:08.022Z",
+  "notes": "Classes (More, Classes): each class's whole-class notes, its past observations and its students, with Export class notes (Word). Export: one chosen student's report (pick the class, then the student). Counsellor's report: Without names now leaves out everything written, and a new Counts only choice.",
+  "releasedAt": "2026-09-28T10:56:35.568Z",
   "apk": "imperial-counselling-latest.apk"
 }
