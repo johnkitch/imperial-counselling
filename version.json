@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
-  "bundle": "bundle-1.0.8.zip",
-  "sha256": "6e82a0de88aeaa4a93863aacd78d2b47a11fbd67dcef8497c7536c4460acdaf2",
+  "version": "1.0.9",
+  "bundle": "bundle-1.0.9.zip",
+  "sha256": "28ea04e385e3662be5c46295b8f0b060c0bcfd87a19a70be4803c25361ed5647",
   "minShell": 1,
-  "schema": 1,
-  "notes": "Import the school's discipline sheet (More, Import and review, Discipline sheet): each incident on the student's timeline in the teacher's words; students named as involved get their own entry. Every Word export now has the school look: crest, maroon band, cream cards.",
-  "releasedAt": "2026-09-28T05:46:28.650Z",
+  "schema": 2,
+  "notes": "Meetings: log parent meetings (on the student's timeline, with conclusion and next steps), staff meetings and workshops (More, Meetings). Counsellor's report for a period (More, Export), in the school look, with or without student names. This update changes how data is stored: the app asks for your PIN once and offers a backup first.",
+  "releasedAt": "2026-09-28T06:02:08.022Z",
   "apk": "imperial-counselling-latest.apk"
 }
