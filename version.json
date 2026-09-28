@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
-  "bundle": "bundle-1.0.7.zip",
-  "sha256": "0dbb06b16054431b2bd91b8c7097b614a38c36c2333dddef14425a87a7973134",
+  "version": "1.0.8",
+  "bundle": "bundle-1.0.8.zip",
+  "sha256": "6e82a0de88aeaa4a93863aacd78d2b47a11fbd67dcef8497c7536c4460acdaf2",
   "minShell": 1,
   "schema": 1,
-  "notes": "Start the app on Day or List now works the way a phone locks. Search: a name finds everything recorded about the student, and names never crowd out concerns and notes.",
-  "releasedAt": "2026-09-24T05:45:35.500Z",
+  "notes": "Import the school's discipline sheet (More, Import and review, Discipline sheet): each incident on the student's timeline in the teacher's words; students named as involved get their own entry. Every Word export now has the school look: crest, maroon band, cream cards.",
+  "releasedAt": "2026-09-28T05:46:28.650Z",
   "apk": "imperial-counselling-latest.apk"
 }
