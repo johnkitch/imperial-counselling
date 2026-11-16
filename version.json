@@ -1,10 +1,10 @@
 {
-  "version": "1.0.10",
-  "bundle": "bundle-1.0.10.zip",
-  "sha256": "2b4a04513b670441eb04d119feab56f92ad7004c27267b0b03e52a0ce75428f6",
+  "version": "1.0.12",
+  "bundle": "bundle-1.0.12.zip",
+  "sha256": "7555abce9abd233ec5fdaa2fd17e8cd8a7653066eedd04093aa4b4b7e6f38186",
   "minShell": 1,
   "schema": 2,
-  "notes": "Classes (More, Classes): each class's whole-class notes, its past observations and its students, with Export class notes (Word). Export: one chosen student's report (pick the class, then the student). Counsellor's report: Without names now leaves out everything written, and a new Counts only choice.",
-  "releasedAt": "2026-09-28T10:56:35.568Z",
+  "notes": "Team for the Head of Counselling: pairing by QR code, sync through the school's sync box, requests and help, case handovers and shared cases, case codes (open, closed, out of our hands) with next steps, one counsellor on two devices, ideas and problems.",
+  "releasedAt": "2026-11-16T10:38:10.590Z",
   "apk": "imperial-counselling-latest.apk"
 }
