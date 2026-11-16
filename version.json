@@ -1,10 +1,10 @@
 {
-  "version": "1.0.13",
-  "bundle": "bundle-1.0.13.zip",
-  "sha256": "6add7651258cc6919a2c93c32cdb23265bf2ee9ad67a7d4802b7ce823d81cb1f",
+  "version": "1.0.14",
+  "bundle": "bundle-1.0.14.zip",
+  "sha256": "c12ef712760496a3565833f5ec131f75b31acb2a4df0e7ae8dc99dfbcd8bbca2",
   "minShell": 1,
   "schema": 2,
-  "notes": "Team: Test the box button. When the box cannot be reached, the app names the cause (address and port, certificate, or the browser or a school policy blocking the local network) and offers a direct test in a new tab.",
-  "releasedAt": "2026-11-16T12:12:19.079Z",
+  "notes": "Transfer any student to another counsellor, with or without a counselling case; the Head can transfer, hand over or share their own students and cases. What arrives from the team is no longer silent: a number on More, a line on the Day screen, what is new on Team, and one discreet alert in the Android app. Counsellors can answer a request in words.",
+  "releasedAt": "2026-11-16T22:41:05.092Z",
   "apk": "imperial-counselling-latest.apk"
 }
