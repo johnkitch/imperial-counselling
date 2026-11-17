@@ -1,10 +1,10 @@
 {
-  "version": "1.0.15",
-  "bundle": "bundle-1.0.15.zip",
-  "sha256": "d1643253032d2258be07fdf68aff8f50e165cca1397d724878c13ecfc7f04a79",
+  "version": "1.0.16",
+  "bundle": "bundle-1.0.16.zip",
+  "sha256": "b6e196a8f3707c58a7ec2fdff68fb67fbdf68a28a7d6c352a198d511a10c772c",
   "minShell": 1,
   "schema": 2,
-  "notes": "Board: announcements, meetings, requests and questions to all, with answers and a short thread with the Head; group observation tasks. News within a minute while the app is open (with the updated sync box), computer notifications, and (with the new Android app) a check while the app is closed. The Head's view of each counsellor (their day, class pages, search the team), figures, and the master backup.",
-  "releasedAt": "2026-11-17T04:22:31.620Z",
+  "notes": "Live team news: with the app open on both phones, a post, an answer or a request shows on the other phone in about two seconds (with the updated sync box), and open team pages update by themselves. The Head's record of each counsellor as Word or Excel, with an optional wellbeing column, and a file for Claude (names left out unless ticked).",
+  "releasedAt": "2026-11-17T16:57:32.345Z",
   "apk": "imperial-counselling-latest.apk"
 }
