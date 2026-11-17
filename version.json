@@ -1,10 +1,10 @@
 {
-  "version": "1.0.14",
-  "bundle": "bundle-1.0.14.zip",
-  "sha256": "c12ef712760496a3565833f5ec131f75b31acb2a4df0e7ae8dc99dfbcd8bbca2",
+  "version": "1.0.15",
+  "bundle": "bundle-1.0.15.zip",
+  "sha256": "d1643253032d2258be07fdf68aff8f50e165cca1397d724878c13ecfc7f04a79",
   "minShell": 1,
   "schema": 2,
-  "notes": "Transfer any student to another counsellor, with or without a counselling case; the Head can transfer, hand over or share their own students and cases. What arrives from the team is no longer silent: a number on More, a line on the Day screen, what is new on Team, and one discreet alert in the Android app. Counsellors can answer a request in words.",
-  "releasedAt": "2026-11-16T22:41:05.092Z",
+  "notes": "Board: announcements, meetings, requests and questions to all, with answers and a short thread with the Head; group observation tasks. News within a minute while the app is open (with the updated sync box), computer notifications, and (with the new Android app) a check while the app is closed. The Head's view of each counsellor (their day, class pages, search the team), figures, and the master backup.",
+  "releasedAt": "2026-11-17T04:22:31.620Z",
   "apk": "imperial-counselling-latest.apk"
 }
