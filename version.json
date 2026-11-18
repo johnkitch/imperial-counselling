@@ -1,10 +1,10 @@
 {
-  "version": "1.0.17",
-  "bundle": "bundle-1.0.17.zip",
-  "sha256": "229bd3d054a6576bda7c0ed526371fbbd99f2acd99647a849acf6e18fd3abb34",
+  "version": "1.0.18",
+  "bundle": "bundle-1.0.18.zip",
+  "sha256": "33a45519d5c795d461a8f0a4d134058c02ee7d83556d78bbe685acf946c96383",
   "minShell": 1,
   "schema": 2,
-  "notes": "Case states: Pending (not started), Open, Waiting (started, paused while waiting for something) and Closed, each change with an optional short reason, on the case page, the student's timeline and report. A case Pending or Waiting longer than its limit (7 days unless changed for that case) is highlighted. The Head's figures and record count the changes.",
-  "releasedAt": "2026-11-18T07:19:59.044Z",
+  "notes": "Live sync between a counsellor's two linked devices: a note, a session or a case saved on one is on the other in about two seconds while both apps are open. Fixes the live connection for phones that wait on several mailboxes (the Head's phone with two or more counsellors).",
+  "releasedAt": "2026-11-18T12:09:31.203Z",
   "apk": "imperial-counselling-latest.apk"
 }
