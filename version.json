@@ -1,10 +1,10 @@
 {
-  "version": "1.0.18",
-  "bundle": "bundle-1.0.18.zip",
-  "sha256": "33a45519d5c795d461a8f0a4d134058c02ee7d83556d78bbe685acf946c96383",
+  "version": "1.0.19",
+  "bundle": "bundle-1.0.19.zip",
+  "sha256": "f02ec1cbf108fd9b562acc8cab86e822e3b3895332a79d6caf3c4e49daef809e",
   "minShell": 1,
   "schema": 2,
-  "notes": "Live sync between a counsellor's two linked devices: a note, a session or a case saved on one is on the other in about two seconds while both apps are open. Fixes the live connection for phones that wait on several mailboxes (the Head's phone with two or more counsellors).",
-  "releasedAt": "2026-11-18T12:09:31.203Z",
+  "notes": "Fixes from the full test: Back from the timetable editor asks before losing corrections; a student handed over keeps the right colour; a booked session can be marked done only from its day, and the Head of Counselling is told; Android asks only once for exact alarms; a counsellor's two devices keep in step after a clock change.",
+  "releasedAt": "2026-11-20T13:33:59.716Z",
   "apk": "imperial-counselling-latest.apk"
 }
