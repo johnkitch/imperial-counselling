@@ -1,10 +1,10 @@
 {
-  "version": "1.0.19",
-  "bundle": "bundle-1.0.19.zip",
-  "sha256": "f02ec1cbf108fd9b562acc8cab86e822e3b3895332a79d6caf3c4e49daef809e",
+  "version": "1.0.20",
+  "bundle": "bundle-1.0.20.zip",
+  "sha256": "1007410ed4148ec0f7b789980c5744fc241da932ed75299f7d582512ef3500b9",
   "minShell": 1,
   "schema": 2,
-  "notes": "Fixes from the full test: Back from the timetable editor asks before losing corrections; a student handed over keeps the right colour; a booked session can be marked done only from its day, and the Head of Counselling is told; Android asks only once for exact alarms; a counsellor's two devices keep in step after a clock change.",
-  "releasedAt": "2026-11-20T13:33:59.716Z",
+  "notes": "",
+  "releasedAt": "2026-11-23T06:52:58.422Z",
   "apk": "imperial-counselling-latest.apk"
 }
