@@ -1,10 +1,10 @@
 {
-  "version": "1.0.23",
-  "bundle": "bundle-1.0.23.zip",
-  "sha256": "92c089b1f0fed63dfd1dbc202f767b377b8fd76d01f72a466bd941a5646988aa",
+  "version": "1.0.24",
+  "bundle": "bundle-1.0.24.zip",
+  "sha256": "7ffd70fd7b4b9a07a66a9031f06d3d75dca98c3e3e2f97daa2364b9d4980e8da",
   "minShell": 1,
   "schema": 2,
   "notes": "",
-  "releasedAt": "2026-11-23T17:08:26.405Z",
+  "releasedAt": "2026-11-27T16:18:59.652Z",
   "apk": "imperial-counselling-latest.apk"
 }
